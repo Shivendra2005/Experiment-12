@@ -33,10 +33,10 @@ int main()
 } 
 
 // Output  
-// Name: Shloka
-// Roll Number: 120
+// Name: Shivendra
+// Roll Number: 122
 // Department: E&TC
 // Division: B
 // 
 // DETAILS:
-// Shloka  120  E&TC  B 
+// Shivendra  122  E&TC  B 
